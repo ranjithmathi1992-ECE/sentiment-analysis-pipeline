@@ -91,3 +91,7 @@ http://localhost:8080
 - Hadoop HDFS Storage
 - Brand Analytics
 - Social Media Analytics
+## Dataset
+100,000 synthetic social media brand mention records
+Run locally: pip install faker pandas && python generate_data.py
+
