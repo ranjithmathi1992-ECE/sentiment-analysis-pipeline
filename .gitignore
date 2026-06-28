@@ -3,3 +3,10 @@ metastore_db/
 __pycache__/
 *.pyc
 .DS_Store
+*.csv
+*.json
+*.parquet
+data/
+logs/
+.env
+
